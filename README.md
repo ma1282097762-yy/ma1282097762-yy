@@ -4,7 +4,7 @@
 
 **AI 产品经理** · 产品研究 / Agent 工作流 / 交互体验
 
-从用户需求出发，关注 AI 能力如何融入真实场景。<br>通过产品研究、原型和实践，探索更有价值的体验。
+把想法，变成体验。<br>探索 AI 产品与 Agent 工作流，也把好奇变成可体验的作品。
 
 <a href="https://ma1282097762-yy.github.io/"><img src="assets/profile-site.svg" alt="个人网站：查看我的网站" width="32%"></a> <a href="https://github.com/ma1282097762-yy?tab=repositories"><img src="assets/profile-work.svg" alt="项目与实践：浏览我的项目" width="32%"></a> <a href="https://github.com/ma1282097762-yy/ma1282097762-yy/blob/main/assets/wechat-qrcode.jpg"><img src="assets/profile-wechat.svg" alt="微信公众号：点击查看二维码" width="32%"></a>
 
@@ -16,9 +16,10 @@
 
 | 项目 | 内容 |
 | :--- | :--- |
-| **[拾要 · 文章精读](https://github.com/ma1282097762-yy/article-essence-studio)** | 文章精读页面与可复用 Skill，支持浏览器本地提炼和 Markdown 导出。 |
-| **[懂车帝 3D 展示](https://github.com/ma1282097762-yy/dongchedi-3d-showcase)** | 结合 3D 车型、灯光与场景的交互式汽车展示概念网站。 |
-| **[个人网站](https://github.com/ma1282097762-yy/ma1282097762-yy.github.io)** | 记录项目、文章和个人介绍的网页空间。 |
+| **[AI 产品拆解 Skill](https://github.com/ma1282097762-yy/ai-product-teardown)** | 通过分端体验、五层分析与实测取证，梳理 AI 产品的设计和能力。 |
+| **[拾要 · 文章精读](https://github.com/ma1282097762-yy/article-essence-studio)** | 文章精读页面与可复用 Skill，让阅读、整理和分享更有条理。 |
+| **[懂车帝 3D 展示](https://github.com/ma1282097762-yy/dongchedi-3d-showcase)** | 将车型、灯光与场景融入网页，探索沉浸式展示体验。 |
+| **[个人网站](https://github.com/ma1282097762-yy/ma1282097762-yy.github.io)** | 集中记录项目、文章与探索的个人空间。 |
 
 [查看全部公开仓库的最近更新 →](https://github.com/ma1282097762-yy?tab=repositories&sort=updated)
 
@@ -32,19 +33,17 @@
 ## 关于我
 
 我是马超越，一名 AI 产品经理。<br>
-我关注 AI 产品如何理解用户需求、设计交互流程，并在真实场景中发挥作用。<br>
-平时通过产品拆解、Agent 工作流和原型实践，探索从想法到体验的过程。
-
-### 我的关注
-
-- **产品研究**：从用户旅程和实际体验出发，观察 AI 产品如何解决问题。
-- **Agent 工作流**：探索任务拆解、工具协作与可复用 Skill 的设计。
-- **体验与原型**：用网页与交互原型表达产品想法，验证和迭代体验。
-- **内容与学习**：整理文章与产品观察，让思考成为可复用的知识。
+关注 AI 产品研究、Agent 工作流与交互体验，<br>
+从产品拆解到交互原型，在实践中记录思考。
 
 **关注方向**　`AI 产品研究` `产品拆解` `Agent Skills` `文章精读` `交互体验` `3D 展示`
 
 **项目中使用与探索**　`HTML` `CSS` `JavaScript` `Three.js` `GitHub Pages`
+
+## 文章与观察
+
+**现在用哪个大模型最实用？看完价格和能力，我把选择缩到了这几个**  
+从价格、能力和使用场景出发，比较不同大模型的选择。
 
 ---
 
