@@ -46,6 +46,12 @@
 
 **项目中使用与探索**　`HTML` `CSS` `JavaScript` `Three.js` `GitHub Pages`
 
+## 微信公众号
+
+关注 AI 产品观察与实践，欢迎使用微信扫码关注。
+
+<img src="assets/wechat-qrcode.jpg" alt="微信公众号二维码" width="220">
+
 ---
 
 [个人网站](https://ma1282097762-yy.github.io/) · [GitHub](https://github.com/ma1282097762-yy)
