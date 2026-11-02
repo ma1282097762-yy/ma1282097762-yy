@@ -6,7 +6,7 @@
 
 从用户需求出发，关注 AI 能力如何融入真实场景。<br>通过产品研究、原型和实践，探索更有价值的体验。
 
-[个人网站 ↗](https://ma1282097762-yy.github.io/)　 · 　[项目与作品](#项目与作品)　 · 　[关于我](#关于我)
+<a href="https://ma1282097762-yy.github.io/"><img src="assets/profile-site.svg" alt="个人网站：查看我的网站" width="32%"></a> <a href="https://github.com/ma1282097762-yy?tab=repositories"><img src="assets/profile-work.svg" alt="项目与实践：浏览我的项目" width="32%"></a> <a href="https://github.com/ma1282097762-yy/ma1282097762-yy/blob/main/assets/wechat-qrcode.jpg"><img src="assets/profile-wechat.svg" alt="微信公众号：点击查看二维码" width="32%"></a>
 
 </div>
 
@@ -45,12 +45,6 @@
 **关注方向**　`AI 产品研究` `产品拆解` `Agent Skills` `文章精读` `交互体验` `3D 展示`
 
 **项目中使用与探索**　`HTML` `CSS` `JavaScript` `Three.js` `GitHub Pages`
-
-## 微信公众号
-
-关注 AI 产品观察与实践，欢迎使用微信扫码关注。
-
-<img src="assets/wechat-qrcode.jpg" alt="微信公众号二维码" width="220">
 
 ---
 
